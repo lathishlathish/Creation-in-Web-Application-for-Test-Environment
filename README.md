@@ -27,7 +27,7 @@ systemctl start httpd
 ```
 
 ### REG NUMBER: 212222230073
-### NAME: LATHISH KANNA.MOOOOOO
+### NAME: LATHISH KANNA.M
  ## OUTPUT
 Terminal:
 
